@@ -1,5 +1,5 @@
 # RecSys
-This repo is used Recommend system of Okage K.K
+This repo is used typical Recommend system.
 
 The recommendation system are consist of following contents:
 1. Knowledge-Based Recommendation
